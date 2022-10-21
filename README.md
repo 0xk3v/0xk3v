@@ -1,3 +1,6 @@
-- 💻 **Front-End Dev**
-- 🟨 **[JS]**
+### Kev
 
+> Just a Developer
+
+- **Js, Py, Lua**
+- **Open-source**
