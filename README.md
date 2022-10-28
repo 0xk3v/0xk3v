@@ -2,5 +2,5 @@
 
 > Just a Developer
 
-- **Js, Py, Lua**
-- **Open-source**
+- **Javascript, Python, Lua**
+- **Opensourcer :mage_man: **
