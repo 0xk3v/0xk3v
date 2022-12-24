@@ -1,5 +1,5 @@
 > Just a Dev :)
 
-- **Javascript, Python, Lua** :computer:
-- **Open-Source** :mage_man:
+- **Lua, Python, Javascript** :computer:
+- **Open-Sourcerer** :mage_man:
 
