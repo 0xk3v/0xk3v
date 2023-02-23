@@ -4,5 +4,3 @@
 - **Python** 
 - **Javascript**
 
-> 💜 **Open-Sourcerer** :mage_man:
-
