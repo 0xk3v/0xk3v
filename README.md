@@ -1,4 +1,4 @@
-> Just a Dev :)
+> Just a Dev
 
 - **Lua** 
 - **Python** 
