@@ -1,4 +1,4 @@
-> Just a Dev
+> :computer: Developer
 
 - **Lua** 
 - **Python** 
