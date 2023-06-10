@@ -1,6 +1,5 @@
 Languages:
 
-
-- **Lua** 
-- **Python** 
 - **Javascript**
+- **Python** 
+- **Lua** 
