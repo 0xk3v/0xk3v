@@ -1,4 +1,4 @@
-Languages:
+Programming Languages:
 
 - **Typescript / Javascript**
 - **Python** 
