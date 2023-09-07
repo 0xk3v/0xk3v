@@ -1,5 +1,5 @@
 Programming Languages:
 
-- **Typescript/Javascript**
+- **Typescript**
 - **Python** 
 - **Lua**
