@@ -1,5 +1,3 @@
-Programmer...
-
 Languages:
 
 - **Typescript**
