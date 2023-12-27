@@ -1,5 +1,5 @@
 Languages:
 
-- **Typescript**
 - **Python**
 - **Lua**
+- **Typescript**
