@@ -1,6 +1,6 @@
 Languages:
 
 - **Go**
-- **Typescript**
-- **Python**
 - **Lua**
+- **Python**
+- **Typescript**
